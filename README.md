@@ -11,3 +11,4 @@ This repository contains manifest files for CSI drivers that have been tested on
 ## Supported Drivers
 
 - [AWS EBS](https://github.com/mesosphere/csi-driver-deployments/tree/master/aws-ebs/kubernetes)
+- [CEPH RBD](https://github.com/deveshk0/csi-driver-deployments/blob/master/ceph-rbd/kubernetes/README.md)
